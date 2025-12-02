@@ -1,4 +1,4 @@
-USE [SmartTaskFlow]
+﻿USE [SmartTaskFlow]
 GO
 /****** Object:  StoredProcedure [dbo].[sp_usurio_update]    Script Date: 2/12/2025 16:09:29 ******/
 SET ANSI_NULLS ON

@@ -1,4 +1,4 @@
-USE [SmartTaskFlow]
+﻿USE [SmartTaskFlow]
 GO
 /****** Object:  Trigger [dbo].[trg_tarea_creada]    Script Date: 2/12/2025 16:14:31 ******/
 SET ANSI_NULLS ON

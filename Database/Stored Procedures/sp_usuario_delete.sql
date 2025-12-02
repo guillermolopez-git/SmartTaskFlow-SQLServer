@@ -1,4 +1,4 @@
-USE [SmartTaskFlow]
+﻿USE [SmartTaskFlow]
 GO
 /****** Object:  StoredProcedure [dbo].[sp_usuario_delete]    Script Date: 2/12/2025 16:08:55 ******/
 SET ANSI_NULLS ON
