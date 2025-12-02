@@ -133,11 +133,6 @@ git clone https://github.com/guillermolopez-git/SmartTaskFlow-SQLServer.git
    * Triggers
    * Seed (datos iniciales)
 
----
-
-## 👨‍💻 Sobre mí
-
-Soy **Guillermo López**, estudiante desarrollando un sistema completo de gestión de tareas como proyecto personal/profesional para fortalecer mis habilidades en SQL Server y C#.
 
 
 
