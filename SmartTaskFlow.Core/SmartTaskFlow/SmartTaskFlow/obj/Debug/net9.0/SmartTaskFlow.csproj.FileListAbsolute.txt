@@ -1,0 +1,15 @@
+C:\Users\willy\Desktop\SmartTaskFlow\SmartTaskFlow.Core\SmartTaskFlow\SmartTaskFlow\bin\Debug\net9.0\SmartTaskFlow.exe
+C:\Users\willy\Desktop\SmartTaskFlow\SmartTaskFlow.Core\SmartTaskFlow\SmartTaskFlow\bin\Debug\net9.0\SmartTaskFlow.deps.json
+C:\Users\willy\Desktop\SmartTaskFlow\SmartTaskFlow.Core\SmartTaskFlow\SmartTaskFlow\bin\Debug\net9.0\SmartTaskFlow.runtimeconfig.json
+C:\Users\willy\Desktop\SmartTaskFlow\SmartTaskFlow.Core\SmartTaskFlow\SmartTaskFlow\bin\Debug\net9.0\SmartTaskFlow.dll
+C:\Users\willy\Desktop\SmartTaskFlow\SmartTaskFlow.Core\SmartTaskFlow\SmartTaskFlow\bin\Debug\net9.0\SmartTaskFlow.pdb
+C:\Users\willy\Desktop\SmartTaskFlow\SmartTaskFlow.Core\SmartTaskFlow\SmartTaskFlow\obj\Debug\net9.0\SmartTaskFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willy\Desktop\SmartTaskFlow\SmartTaskFlow.Core\SmartTaskFlow\SmartTaskFlow\obj\Debug\net9.0\SmartTaskFlow.AssemblyInfoInputs.cache
+C:\Users\willy\Desktop\SmartTaskFlow\SmartTaskFlow.Core\SmartTaskFlow\SmartTaskFlow\obj\Debug\net9.0\SmartTaskFlow.AssemblyInfo.cs
+C:\Users\willy\Desktop\SmartTaskFlow\SmartTaskFlow.Core\SmartTaskFlow\SmartTaskFlow\obj\Debug\net9.0\SmartTaskFlow.csproj.CoreCompileInputs.cache
+C:\Users\willy\Desktop\SmartTaskFlow\SmartTaskFlow.Core\SmartTaskFlow\SmartTaskFlow\obj\Debug\net9.0\SmartTaskFlow.sourcelink.json
+C:\Users\willy\Desktop\SmartTaskFlow\SmartTaskFlow.Core\SmartTaskFlow\SmartTaskFlow\obj\Debug\net9.0\SmartTaskFlow.dll
+C:\Users\willy\Desktop\SmartTaskFlow\SmartTaskFlow.Core\SmartTaskFlow\SmartTaskFlow\obj\Debug\net9.0\refint\SmartTaskFlow.dll
+C:\Users\willy\Desktop\SmartTaskFlow\SmartTaskFlow.Core\SmartTaskFlow\SmartTaskFlow\obj\Debug\net9.0\SmartTaskFlow.pdb
+C:\Users\willy\Desktop\SmartTaskFlow\SmartTaskFlow.Core\SmartTaskFlow\SmartTaskFlow\obj\Debug\net9.0\SmartTaskFlow.genruntimeconfig.cache
+C:\Users\willy\Desktop\SmartTaskFlow\SmartTaskFlow.Core\SmartTaskFlow\SmartTaskFlow\obj\Debug\net9.0\ref\SmartTaskFlow.dll
